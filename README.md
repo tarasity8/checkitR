@@ -1,6 +1,6 @@
 # Deploy to replit
 
-<a href="https://replit.com/@gfgv/trojan">
+<a href="https://replit.com/">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
 </a>
 
