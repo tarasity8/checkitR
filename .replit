@@ -1,6 +1,6 @@
-run = ["bash", "main.sh"]
+run = ["bash", "check.sh"]
 
-entrypoint = "main.sh"
+entrypoint = "check.sh"
 
 [nix]
 channel = "stable-21_11"
